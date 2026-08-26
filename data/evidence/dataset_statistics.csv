@@ -1,0 +1,8 @@
+class,train,validation,test,total
+cardboard,282,60,61,403
+glass,350,75,76,501
+metal,286,61,62,409
+paper,415,89,90,594
+plastic,336,72,72,480
+trash,95,20,22,137
+TOTAL,1764,377,383,2524

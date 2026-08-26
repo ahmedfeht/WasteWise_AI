@@ -1,0 +1,7 @@
+file,actual,predicted,confidence
+demo_cardboard.jpg,cardboard,cardboard,0.999917
+demo_glass.jpg,glass,glass,0.995566
+demo_metal.jpg,metal,metal,0.992169
+demo_paper.jpg,paper,paper,0.999766
+demo_plastic.jpg,plastic,plastic,0.997922
+demo_trash.jpg,trash,trash,0.989057
